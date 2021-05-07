@@ -1,8 +1,8 @@
 [
   {
     "sousId": 0,
-    "tokenName": "MACARON",
-    "stakingTokenName": "MACARON",
+    "tokenName": "MCRN",
+    "stakingTokenName": "MCRN",
     "stakingTokenAddress": "0xacb2d47827c9813ae26de80965845d80935afd0b",
     "contractAddress": {
       "56": "0xFcDE390bF7a8B8614EC11fa8bde7565b3E64fe0b",
@@ -18,7 +18,7 @@
   },
   {
     "sousId": 1,
-    "tokenName": "MACARON",
+    "tokenName": "MCRN",
     "stakingTokenName": "CAKE",
     "stakingTokenAddress": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
     "contractAddress": {
