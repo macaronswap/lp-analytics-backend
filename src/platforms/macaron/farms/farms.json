@@ -1,0 +1,22 @@
+[
+  {
+    "pid": 7,
+    "lpSymbol": "MCRN-BNB LP",
+    "lpAddresses": {
+      "56": "0x45d8d5d9bd425efc26e3259848bcfefa16f927f0",
+      "97": ""
+    },
+    "tokenSymbol": "MCRN",
+    "tokenAddresses": {
+      "56": "0xacb2d47827c9813ae26de80965845d80935afd0b",
+      "97": ""
+    },
+    "risk": 1,
+    "quoteTokenSymbol": "BNB",
+    "quoteTokenAdresses": {
+      "56": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "97": ""
+    },
+    "multiplier": "50X"
+  }
+]
